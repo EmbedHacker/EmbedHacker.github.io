@@ -1,0 +1,9 @@
+Origin: lao
+Label: linux0.12
+Suite: stable
+Codename: trusty
+Version: 0.11
+Architectures: amd64
+Components: main restricted universe multiverse
+Description: no
+SignWith: yes

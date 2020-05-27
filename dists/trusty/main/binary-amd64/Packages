@@ -1,0 +1,14 @@
+Package: hello-x86
+Source:embedfire
+Version:0.0.1
+Architecture: amd64
+Maintainer:guanxiu 
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/hello-x86_0.0.1_amd64.deb
+Size: 1136
+SHA256: d6fe9eeedf0adb115e74fe1105a9d630592b6fd42c5b335da1060948b3348a15
+SHA1: 58cb897dd549862c2fb5ca0d6b2410a7934ad156
+MD5sum: 6dbc3742eb9a816612d98ef9cf2f917a
+Description: Hello Tools
+

@@ -1,0 +1,65 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: lao
+Label: linux0.12
+Suite: stable
+Codename: trusty
+Version: 0.11
+Date: Wed, 27 May 2020 12:19:27 UTC
+Architectures: amd64
+Components: main restricted universe multiverse
+Description: no
+MD5Sum:
+ fac86fb0a62bf9d6c940110b27d020d3 380 main/binary-amd64/Packages
+ c1825ad3575047a1dfb73fd963b08f6f 296 main/binary-amd64/Packages.gz
+ edbd9f1c268f1c99048d47013bbda023 111 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 restricted/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 restricted/binary-amd64/Packages.gz
+ 22e3aa9703aa134909dceb7d3be27788 117 restricted/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 universe/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 universe/binary-amd64/Packages.gz
+ 64585e6d2176937b055ce1b859824296 115 universe/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 multiverse/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 multiverse/binary-amd64/Packages.gz
+ 3d66ae52f1133a8aa3f518acac085ef3 117 multiverse/binary-amd64/Release
+SHA1:
+ 7939e464e75652a4928d93d480bbc08bdfc27a48 380 main/binary-amd64/Packages
+ b9eb43501d8d0c443180a41904831a7b428e3b93 296 main/binary-amd64/Packages.gz
+ fd341d789fb5d8586efd4ac56b40a5b09fc0cf12 111 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 restricted/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 restricted/binary-amd64/Packages.gz
+ 8e1ffe4fac4bd536c11e5382fbab971a3b90a773 117 restricted/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 universe/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 universe/binary-amd64/Packages.gz
+ b11de2a8d334e196038f97a40e1e5e2c2c68fbd1 115 universe/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 multiverse/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 multiverse/binary-amd64/Packages.gz
+ 0053996fe1a230a8a26f96377255a3d27db61fad 117 multiverse/binary-amd64/Release
+SHA256:
+ 32985c20fc017c860b391ec20c442b22a79dce95e519ab62d6ed2139edf47a56 380 main/binary-amd64/Packages
+ ad66d27acfae7baacfbdc0bedbd9ebb28f6d13ba56ab0e09e1dca39574aa2efc 296 main/binary-amd64/Packages.gz
+ 50b59f27db4a30a137367d15ea01f60415a04c8e95d37d7dedf42da33fc613ec 111 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 restricted/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 restricted/binary-amd64/Packages.gz
+ 7d113e2a09add4083bd20db7878b3d15c87180659dfd11b0e0525330b474bdb0 117 restricted/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 universe/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 universe/binary-amd64/Packages.gz
+ 83f5cfdef2a146c188d983dc109e2c7c80c999a8650c80072fcfc691d465e874 115 universe/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 multiverse/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 multiverse/binary-amd64/Packages.gz
+ ce44d8a8daf9a7744a33a0169e39a1590579bbe399232963b5f5c5e390d5d913 117 multiverse/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEM33TBozqmCApDoQb9EAz6TQeYEUFAl7OWtAACgkQ9EAz6TQe
+YEW3swwAntOtM60LATZW4FYZtd8EFxTzcv7kqIfUqg7bmV/mHGQF57Ybk+DQmCSW
+QdhplDKvUb02GwSdIXZirG9bwt3+egX2NwzzTEv2JL2pY97m9sBiEEFRGjy6a81E
+k2JuS/hUo+4v01Oq2ayegHZUb8b/h2UNNK7Bil3g09Kth9b5wP79mPEFZv6hnlEt
+uII9lQ9VeIfizkyF7Uh0t83rEJmG+P9DmPcrcIG+IYzGi+yOB5K0+x/B76FqSMyU
+OCeFlc9nTWOVmp2OY+LEaiERYkpxc+YMO8+1AeOlwkEA+niR3RAyqzt9FxVPeKJF
+1MnV7dgzKBHXHOizL92127nqqLz/fUx3FHScdb1zoXop/wHiEVv3v+6qAD5unNJr
+qi1/FHMKU9OE6TFyENQRNRbUIdNHY5I9dWk7RkhuJrUrZCKormQrPuIhrbJbS9vx
+RXh90acy2IrCZKgUfbu26v0EhkoPsfetLjMV41Fvou/rrPSq9QCaZuYxA8ua76MW
+p7Ud5+hw
+=v1C6
+-----END PGP SIGNATURE-----
